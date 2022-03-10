@@ -220,7 +220,7 @@ related labs
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Volumetric Techniques](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/content/resources/volumetric-techniques)
+[Volumetric Techniques](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/volumetric-techniques)
 {{< tdclose >}}
 {{< tdopen >}}
 Ellen Swallow Richards, Esterification, and Catalase
@@ -229,7 +229,7 @@ Ellen Swallow Richards, Esterification, and Catalase
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Titration](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/content/resources/titration)
+[Titration](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/titration)
 {{< tdclose >}}
 {{< tdopen >}}
 Ellen Swallow Richards
@@ -238,7 +238,7 @@ Ellen Swallow Richards
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[TLC Basics](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/content/resources/tlc-the-basics)
+[TLC Basics](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/tlc-the-basics)
 {{< tdclose >}}
 {{< tdopen >}}
 Ferrocene and Esterification
@@ -247,7 +247,7 @@ Ferrocene and Esterification
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[TLC Advanced](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/content/resources/tlc-advanced)
+[TLC Advanced](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/tlc-advanced)
 {{< tdclose >}}
 {{< tdopen >}}
 Esterification
@@ -256,7 +256,7 @@ Esterification
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Reaction Work-up I: Extracting, Washing and Drying](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/content/resources/reaction-work-up-i)
+[Reaction Work-up I: Extracting, Washing and Drying](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/reaction-work-up-i)
 {{< tdclose >}}
 {{< tdopen >}}
 Esterification
@@ -265,7 +265,7 @@ Esterification
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Filtration](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/content/resources/filtration)
+[Filtration](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/filtration)
 {{< tdclose >}}
 {{< tdopen >}}
 Ferrocene, Ellen Swallow Richards, and Essential Oils
@@ -274,7 +274,7 @@ Ferrocene, Ellen Swallow Richards, and Essential Oils
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Sublimation](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/content/resources/sublimation)
+[Sublimation](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/sublimation)
 {{< tdclose >}}
 {{< tdopen >}}
 Ferrocene
@@ -283,7 +283,7 @@ Ferrocene
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Column Chromatography](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/content/resources/column-chromatography)
+[Column Chromatography](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/column-chromatography)
 {{< tdclose >}}
 {{< tdopen >}}
 Ferrocene
@@ -292,7 +292,7 @@ Ferrocene
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Using a Balance](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/content/resources/using-a-balance)
+[Using a Balance](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/using-a-balance)
 {{< tdclose >}}
 {{< tdopen >}}
 Ferrocene, Ellen Swallow Richards, Essential Oils, Esterification, and Catalase
@@ -301,7 +301,7 @@ Ferrocene, Ellen Swallow Richards, Essential Oils, Esterification, and Catalase
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Melting Point Determination](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/content/resources/melting-point-determination)
+[Melting Point Determination](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/melting-point-determination)
 {{< tdclose >}}
 {{< tdopen >}}
 Ferrocene and Essential Oils
@@ -310,7 +310,7 @@ Ferrocene and Essential Oils
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Using an Automatic Pipet](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/content/resources/using-an-automatic-pipet)
+[Using an Automatic Pipet](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/using-an-automatic-pipet)
 {{< tdclose >}}
 {{< tdopen >}}
 Catalase
@@ -319,7 +319,7 @@ Catalase
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Making Buffers and Using a pH Meter](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/content/resources/making-buffers-and-using-a-ph-meter)
+[Making Buffers and Using a pH Meter](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/making-buffers-and-using-a-ph-meter)
 {{< tdclose >}}
 {{< tdopen >}}
 Catalase
@@ -328,7 +328,7 @@ Catalase
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Distillation I](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/content/resources/distillation-i-simple-fractional-distillations)
+[Distillation I](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/distillation-i-simple-fractional-distillations)
 {{< tdclose >}}
 {{< tdopen >}}
 Essential Oils and Esterification
@@ -337,7 +337,7 @@ Essential Oils and Esterification
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Distillation II](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/content/resources/distillation-ii-vacuum-distillations)
+[Distillation II](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/distillation-ii-vacuum-distillations)
 {{< tdclose >}}
 {{< tdopen >}}
 Essential Oils
@@ -346,7 +346,7 @@ Essential Oils
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Reflux](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/content/resources/refluxing-a-reaction)
+[Reflux](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/refluxing-a-reaction)
 {{< tdclose >}}
 {{< tdopen >}}
 Esterification
