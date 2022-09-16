@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-310-laboratory-chemistry-fall-2019/e4fc84b47f04aaa72831674a59498a69_l1hMkDTg2lg.pdf
+file: /media/courses/5-310-laboratory-chemistry-fall-2019/e4fc84b47f04aaa72831674a59498a69_l1hMkDTg2lg.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

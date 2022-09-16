@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Writing Up the Lab Report'
 uid: afafe639-49a2-ca22-0b7f-f096feef5a31
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Dr. Sarah Hewett discusses how to write a lab report, which is an important component of this course. In addition, knowing how to communicate the science that you do is a crucial skill beyond this course, in research or in any other context.
 
 **Instructor:** Dr. Sarah Hewett
+

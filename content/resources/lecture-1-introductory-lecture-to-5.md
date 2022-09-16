@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introductory Lecture to 5.310'
 uid: 31f98018-2362-ab40-d57d-13015c62ebb8
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In this first lecture, Dr. John Dolhun introduces the teaching team, policies, course format, expectations, grading, and material to be covered during the semester. He also discusses lab notebooks and lab safety rules, then demonstrates a polymer reaction.
 
 **Instructor:** Dr. John Dolhun
+

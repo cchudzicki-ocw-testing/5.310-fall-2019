@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes descriptions and instructions for each of the 5
+  laboratory experiments in the course.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

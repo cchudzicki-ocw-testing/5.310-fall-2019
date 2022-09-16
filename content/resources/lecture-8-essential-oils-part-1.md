@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Essential Oils, Part 1'
 uid: c759be61-ef7d-a165-4c98-124a19e55b8f
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** Following a brief re-cap of the Charles River Lab results, Dr. Hewett introduces the next unit, essential oils. After an overview of their history, properties, and structures, she then covers what the class will do for the essential oils lab experiment.  
 
 **Instructor:** Dr. Sarah Hewett
+

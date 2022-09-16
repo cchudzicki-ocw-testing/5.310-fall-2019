@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Essential Oils, Part 2'
 uid: a87081b8-6843-d4d6-344d-fd48ee01e4f7
 video_files:
@@ -26,3 +29,4 @@ video_metadata:
 **Description:** In the second lecture of the Essential Oils series, Dr. Hewett goes over the methods they will use to characterize their products of distillation. These methods include refractometry, gas chromatography, infrared spectroscopy, and polarimetry. 
 
 **Instructor:** Dr. Sarah Hewett
+
